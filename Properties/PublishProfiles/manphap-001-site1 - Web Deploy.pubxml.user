@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIlbkJaKSjE+M/2k76WFKKQAAAAACAAAAAAAQZgAAAAEAACAAAABuIjhEauYcbEbxVaPyI6o/tHEXNz/a3ZYRNWm3O2/BZQAAAAAOgAAAAAIAACAAAABbwTMPtTMGkPI77RFCiiRaWjQkbiCw017q8ght5r4q0CAAAAALQAszwUW3cAdlv/oI4+9/LSKzrf73HD/Ell1LgxyBxUAAAACVyff6jLxnDw5mDRaiCBwjuXEFgdTeCOf/9qdLMF2msbS+xaC0rzLZJnpojMSY6RoVgAkUeEGdXNl99PE68inT</EncryptedPassword>
+    <History>True|2024-08-04T06:16:58.7311742Z;True|2024-08-04T12:33:11.2437557+07:00;False|2024-08-04T12:32:22.7483361+07:00;True|2024-08-04T12:26:29.7463795+07:00;False|2024-08-04T12:21:19.1663544+07:00;True|2024-08-04T12:20:02.1761737+07:00;True|2024-08-04T12:17:34.2287395+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8010.site4now.net%3bUser ID=db_aabafe_login_admin%3bPassword=Ph.0833220103%3bConnect Timeout=30%3bEncrypt=False%3bTrust Server Certificate=False%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

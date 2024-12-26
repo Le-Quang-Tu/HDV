@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\shoppingonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:shoppingonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\settingsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\settingsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\controllers\\statisticalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\repository\\statisticalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:repository\\statisticalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\wwwroot\\content\\assets\\plugins\\chart.js\\chart.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:wwwroot\\content\\assets\\plugins\\chart.js\\chart.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|d:\\t\u1EA3i xu\u1ED1ng\\shoppingonline\\shoppingonline\\wwwroot\\content\\assets\\plugins\\chart.js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{274F9EB3-48D1-40D4-A541-9BC025F33A31}|ShoppingOnline.csproj|solutionrelative:wwwroot\\content\\assets\\plugins\\chart.js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingOnline.csproj",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\ShoppingOnline.csproj",
+              "RelativeDocumentMoniker": "ShoppingOnline.csproj",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\ShoppingOnline.csproj",
+              "RelativeToolTip": "ShoppingOnline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T13:16:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:13:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T13:10:43.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T13:10:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBJwFgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingSystemController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatisticalController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Identity\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAUwCIBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Chart.min.js",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.min.js",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.min.js",
+              "RelativeToolTip": "wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T13:10:43.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwI8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatisticalRepository.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Repository\\StatisticalRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StatisticalRepository.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Repository\\StatisticalRepository.cs",
+              "RelativeToolTip": "Repository\\StatisticalRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Chart.js",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.js",
+              "RelativeDocumentMoniker": "wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.js",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.js",
+              "RelativeToolTip": "wwwroot\\Content\\assets\\plugins\\chart.js\\Chart.js",
+              "ViewState": "AgIAAGcZAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T13:10:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:10:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T\u1EA3i xu\u1ED1ng\\ShoppingOnline\\ShoppingOnline\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAIBJwFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:10:43.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
